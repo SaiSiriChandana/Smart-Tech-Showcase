@@ -1,4 +1,4 @@
-# **Innovations_Hub Repository**
+# **Smart Tech Showcase Repository**
 
 Welcome!! This collection showcases various innovative projects ranging from encryption techniques to health monitoring systems. Below is an overview of each project.
 

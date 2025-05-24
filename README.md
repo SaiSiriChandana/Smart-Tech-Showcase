@@ -1,6 +1,8 @@
 # **Smart Tech Showcase Repository**
 
 Welcome!! This collection showcases various innovative projects ranging from encryption techniques to health monitoring systems. Below is an overview of each project.
+> 📝 *This repository is adapted from the [Innovations_Hub template](https://github.com/AKSHITHA-CHILUKA/Innovations_Hub) and customized by [SaiSiriChandana](https://github.com/SaiSiriChandana).*
+
 
 ## **Table of Contents**
 - [Basic Encryptions and Decryption](#basic-encryptions-and-decryption)

@@ -28,7 +28,7 @@ A machine learning model aimed at predicting the likelihood of a customer purcha
 ## **How to Use**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AKSHITHA-CHILUKA.git
+   git clone https://github.com/SaiSiriChandana/Smart-Tech-Showcase.git
    ```
 Navigate to the project directory of your choice.
 Follow the instructions provided in the respective project folder's README or documentation.
